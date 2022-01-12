@@ -1,0 +1,18 @@
+p{
+    padding: 40px;
+    font-family: "Bitstream Charter";
+    font-size: large;
+    color: blue;
+}
+h2{
+    color: darkcyan;
+    font-size: larger;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+a{
+    color: firebrick;
+    font-size: 30px;
+}
